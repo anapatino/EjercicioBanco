@@ -6,6 +6,7 @@ namespace bancoPrimerEjercicio
     {
         static void Main(string[] args)
         {
+            //Hola
             Console.WriteLine("Primer ejemplo con Anya(clase,herencia,capas)");
             Cuenta cuenta = new CuentaAhorro(300000);
             //cuenta.Saldo = 200000;
